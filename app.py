@@ -6,7 +6,8 @@ from langchain_groq import ChatGroq
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 
 # Replace 'your_api' with your actual GROQ API key
-groq_api_key = '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'
+#groq_api_key = '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'
+groq_api_key = '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'
 
 def main():
     st.title("Healthcare Chatbot")
