@@ -1,0 +1,18 @@
+streamlit
+groq
+langchain
+langchain_core
+langchain_groq
+langchain_community
+pinecone-client
+dotenv
+setuptools
+pypdf
+sentence-transformers==2.2.2
+langchain
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_experimental
+-e .
